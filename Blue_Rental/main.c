@@ -11,3 +11,4 @@ edit ON LOcALLLLL
 THIRD TIME
 
 PULL this
+Pull is Editing. but fetch is just info showing
